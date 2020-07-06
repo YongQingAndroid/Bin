@@ -20,7 +20,7 @@ env:
   REPO_BRANCH: master
   CONFIG_FILE: x64稳定版.config
   DIY_SH: 稳定版.sh
-  SSH_ACTIONS: false
+  SSH_ACTIONS: true
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: false
   UPLOAD_RELEASE: true
